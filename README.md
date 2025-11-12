@@ -15,14 +15,14 @@ GitHub Pages를 통해 관리하는 북마크 목록입니다.
 
 ---
 
-## 📚 개발 학습 리소스
+## 📚 암호화페 노드관련 
 
-| 번호 | 이름 | 설명 | 링크 |
-| :---: | :--- | :--- | :--- |
-| 1. | **React 공식 문서** | 최신 React(리액트) 라이브러리 학습을 위한 공식 자료입니다. | [React 공식 문서](https://react.dev/) |
-| 2. | **TypeScript 핸드북** | 자바스크립트의 상위 집합인 타입스크립트의 심화 학습 자료입니다. | [TypeScript 핸드북](https://www.typescriptlang.org/docs/handbook/intro.html) |
-| 3. | CSS Flexbox 가이드 | 복잡한 레이아웃을 쉽게 만들 수 있는 Flexbox 사용법입니다. | [Flexbox 완전 가이드](https://example.com/flexbox-guide) |
-| 4. | 알고리즘 문제 풀이 사이트 | 코딩 테스트 준비를 위한 알고리즘 연습 문제 사이트입니다. | [백준 온라인 저지](https://www.acmicpc.net/) |
+|이름 | 설명 | 링크 |
+| :--- | :--- | :--- |
+| **honeygain** |   |  https://dashboard.honeygain.com/login |
+| **pawns** |   |  https://dashboard.pawns.app/home |
+| repocket|  |https://repocket.com/dashboard/share-internet|
+| uprock |  |https://uprock.com/wallet |
 
 ---
 
